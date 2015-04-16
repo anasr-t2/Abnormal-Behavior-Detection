@@ -1,0 +1,199 @@
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\SampleCode.csprojResolveAssemblyReference.cache
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\HelpText.baml
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\HelpTextWindow.baml
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\HelpTextWindow.g.cs
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\App.g.cs
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+D:\Level Four\GP\macket interface table\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\obj\Debug\SampleCode.csprojResolveAssemblyReference.cache
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\obj\Debug\App.g.cs
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+C:\Users\OAM\Desktop\mDragMultipleSampleCode\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\App.g.cs
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+D:\Level Four\GP\macket interface table\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.csprojResolveAssemblyReference.cache
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\App.g.cs
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+C:\Users\OAM\Desktop\1\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.csprojResolveAssemblyReference.cache
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\App.g.cs
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\8888\New folder\mDragMultipleSampleCode - Copy\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.csprojResolveAssemblyReference.cache
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\App.g.cs
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+C:\Users\OAM\Desktop\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.csprojResolveAssemblyReference.cache
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\App.g.cs
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+C:\Users\Moh_Hossam\Documents\Visual Studio 2013\Projects\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\App.g.cs
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+C:\Users\OAM\Desktop\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.csprojResolveAssemblyReference.cache
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\App.g.cs
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.exe.manifest
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\Draft.PresentationDesignMarkup.dll
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\ImageCropper.exe
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\ImageCropper.vshost.exe
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\PresentationDesignCore.dll
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\PresentationDesignDeveloper.DLL
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\PresentationDesignFramework.dll
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\ImageCropper.pdb
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+C:\Users\Moh_Hossam\Desktop\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.exe.manifest
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.exe.manifest
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.csprojResolveAssemblyReference.cache
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\App.g.cs
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+C:\Users\OAM\Desktop\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.exe.manifest
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.exe.manifest
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.csprojResolveAssemblyReference.cache
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\App.g.cs
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+D:\Level Four\GP\macket interface table\interface final\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.exe.manifest
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.exe.manifest
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\App.g.cs
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.exe.manifest
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+C:\Users\OAM\Downloads\hexa-w-crop-in-link2\hexa-w-crop in link\Hexa\zooming\DragMultipleSampleCode(1)\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\SampleCode.exe
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\SampleCode.pdb
+E:\Project\Hendy\DragMultipleSampleCode\bin\Debug\SampleCode.exe.manifest
+E:\Project\Hendy\DragMultipleSampleCode\bin\Debug\SampleCode.exe
+E:\Project\Hendy\DragMultipleSampleCode\bin\Debug\SampleCode.pdb
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\SampleCode.csprojResolveAssemblyReference.cache
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\MainWindow.g.cs
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\App.g.cs
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.cache
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\SampleCode_MarkupCompile.lref
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\MainWindow.baml
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\SampleCode.g.resources
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\SampleCode.Properties.Resources.resources
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\SampleCode.csproj.GenerateResource.Cache
+E:\Project\Hendy\DragMultipleSampleCode\obj\Debug\SampleCode.exe.manifest
